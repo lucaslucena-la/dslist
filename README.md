@@ -56,8 +56,7 @@ O **DSList** é uma aplicação backend construída com Java e Spring Boot, que 
 
 ```bash
 # clonar repositório
-git clone https://github.com/seuusuario/dslist.git
-
+git clone https://github.com/lucaslucena-la/dslist.git
 # entrar na pasta do projeto
 cd dslist
 
