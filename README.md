@@ -13,31 +13,6 @@ O **DSList** é uma aplicação backend construída com Java e Spring Boot, que 
 - Consultar jogos por coleção
 - Reordenar a posição dos jogos em uma lista
 
-## 📷 Layout da API (Postman)
-
-![GET /games](https://raw.githubusercontent.com/devsuperior/java-spring-dslist/main/resources/1.png)
-
-### ✅ Exemplo de resposta para `/games`
-```json
-[
-  {
-    "id": 1,
-    "title": "The Witcher 3: Wild Hunt",
-    "year": 2015,
-    "imgUrl": "...",
-    "shortDescription": "..."
-  }
-]
-```
-
-### 🔄 Reordenação com `/lists/{listId}/replacement`
-```json
-{
-  "sourceIndex": 3,
-  "destinationIndex": 1
-}
-```
-
 ## 🛠️ Tecnologias utilizadas
 
 - Java 21
