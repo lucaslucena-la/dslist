@@ -78,7 +78,7 @@ JDBC URL: jdbc:h2:mem:testdb
 
 ## 👨‍💻 Autor
 
-Feito com 💻 por **Lucas Lucena**  
+Feito por **Lucas Lucena**  
 📫 Entre em contato no [LinkedIn](https://www.linkedin.com/in/lucaslucenadev)
 
 ---
